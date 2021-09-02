@@ -1,5 +1,4 @@
 # Demo Open SF: Next Steps
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=jorrit-steporange&amp;repo=demo-open-sf">
-  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
-</a>
+[![Deploy to Salesforce](https://githubsfdeploy.herokuapp.com?owner=jorrit-steporange&amp;repo=demo-open-sf)](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)
+
